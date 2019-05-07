@@ -14,12 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Another place on the web to learn crap 
-#email: whateversauc3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-        I created this site to learn about Jekyll to see if it was possible
-        to break static webpages. I'm also interested in learning more
-        about markdown and using git properly for version control
+        A site to share and learn about crap on the Internet
 baseurl: "" # the subpath of your site, e.g. /blog
+
+
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: whatever_sauce
