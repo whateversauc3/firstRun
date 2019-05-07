@@ -23,5 +23,4 @@ As I've also mentioned a few times, I'm trying to get familiar with git as well.
 
 If you have any other ideas for things you think would make interests posts, reach out to me on Twitter. You can find handle below
 
-Just 'cuz I wanted to try this out. This should be a link to the other posts: {{ site.posts }} 
 Cheers and HACK THE PLANET!
