@@ -7,12 +7,11 @@ categories: jekyll update
 
 Greetz!
 
-I'm Dave Collins, AKA whateverSauc3 - welcome to my blog! I created this site during a break between jobs for a few reasons. First, I'm interested in security
-in fact, last week I celebrated my second full year working in offensive security and just passed my seventh year working in IT. I've written on other platforms
-including peerlyst.com as well as for my last company and in college during a break from working in tech I studied history and philosophy eventually earning BA
+I'm Dave Collins, AKA whateverSauc3 - welcome to my blog! I created this site during a break between jobs for a few reasons. First, I'm interested in information security. In fact, last week I celebrated my second full year working in offensive security and just passed my seventh year working in IT. I've written on other platforms
+including peerlyst.com as well as some blog posts for my last company. I also wrote quite a bit during a break from working in tech when I studied history and philosophy eventually earning BA
 degrees in both and a Master's degree in history. My academic work was on the intellectual history of anarchism and the labor movement in the United States. I
 was interested in trying to find an answer to the question, "what happened to the anarchist movement in the United States?" This has also guided my research after
-grad school as well.
+grad school as well, including a talk I gave at Sparklecon VI.
 
 My goal for this blog, in addition to learning about the possibilities of breaking static HTML websites in specific but web development in general, is to share
 some of the knowledge I've gained in my time in security. I know there are tons of blogs out there - many of them written by security professionals with amazing
